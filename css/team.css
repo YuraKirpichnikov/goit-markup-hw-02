@@ -1,6 +1,12 @@
-#team {
-    background-color: #F4F4FD;}
-#person {background-color: #FFFFFF;}
+.team {
+    background-color: #f4f4fd;
+    padding: 120px 0;
+}
+.person {
+    background-color: #ffffff;
+    border-radius: 0 0 4px 4px;
+    text-align: center;
+}
 #name {color: #2E2F42;}
 #jobtitle {color: #434455;}
 #team-txt{text-align: center;}

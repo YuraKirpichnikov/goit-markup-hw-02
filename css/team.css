@@ -7,8 +7,17 @@
     border-radius: 0 0 4px 4px;
     text-align: center;
 }
+.team-list {
+    display: flex;
+    gap: 24px;
+}
 #name {color: #2E2F42;}
 #jobtitle {color: #434455;}
-#team-txt{text-align: center;}
+.team {
+    text-align: center;
+}
+.person {
+    width: calc((100% - 72px) / 4);
+}
 
     

@@ -1,8 +1,8 @@
 #team {
     background-color: #F4F4FD;}
-#people {background-color: #FFFFFF;}
-h3 {text-align: center;
-    color: #2E2F42;}
-p {text-align: center;
-    color: #434455;}
+#person {background-color: #FFFFFF;}
+#name {color: #2E2F42;}
+#jobtitle {color: #434455;}
+#team-txt{text-align: center;}
+
     

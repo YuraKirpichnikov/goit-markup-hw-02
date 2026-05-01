@@ -1,10 +1,15 @@
-#team {
+.team {
     background-color: #f4f4fd;
 }
 .person {
     background-color: #ffffff;}
 
 .title-h3 {text-align: center;}
-.title-p {text-align: center;}
-#team-txt {text-align: center;}
+.title-p {
+    color: #434455;
+    line-height: 1.5;
+    text-align: center;}
+.team-txt {
+    line-height: 1.11;
+    text-align: center;}
     

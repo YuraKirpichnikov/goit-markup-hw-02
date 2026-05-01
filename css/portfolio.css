@@ -1,1 +1,6 @@
-#title-portfolio {text-align: center;}
+.section-title {text-align: center;}
+.portfolio-text {
+    line-height: 1.5;
+    color: #434455;}
+.section-title {line-height: 1.11;}
+.portfolio-title {line-height: 1.20;}

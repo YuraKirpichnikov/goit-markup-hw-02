@@ -1,6 +1,16 @@
 #hero {background-color: #2E2F42;}
-h1{color: #FFFFFF; text-align: center;}
+h1{color: #FFFFFF;
+    text-align: center;
+    font-size: 56px;
+font-weight: 700;
+font-style: bold;
+letter-spacing: 2%;
+line-height: 60px;}
 .hero-btn{
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 4%;
+    font-style: medium;
     background-color: #4D5AE5;
     color: #FFFFFF;
 

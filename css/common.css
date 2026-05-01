@@ -35,11 +35,12 @@ a {font-size: 12px;
    letter-spacing: 0.04em;
    text-decoration: underline;}
 
-   a {
+ .contacts, .page-nav  a {
        color: #2E2F42;
    }
 
-   a:hover,
+ .contacts, .page-nav  a:hover,
    a:focus {
        color: #404bbf;
    }
+   ul, ol {list-style-type: none;}

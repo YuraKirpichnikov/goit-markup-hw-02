@@ -1,5 +1,5 @@
-.hero {background-color: #2E2F42;}
-.hero h1{color: #FFFFFF;
+#hero {background-color: #2E2F42;}
+#hero h1{color: #FFFFFF;
     text-align: center;
     font-size: 56px;
 font-weight: 700;
@@ -20,3 +20,4 @@ line-height: 1.5;}
 .hero-btn:focus {
     background-color: #404BBF;
 }
+/* id="hero" class="hero-btn" id="features" class="title-block" class="features-h3-txt" class="features-p-txt"/*

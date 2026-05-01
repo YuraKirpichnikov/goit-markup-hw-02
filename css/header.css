@@ -4,20 +4,30 @@
               font-weight: 500;
               font-style: medium;
               font-size: 16px;
-              line-height: 24px;
-              letter-spacing: 2%;}
+              line-height: 1.5;
+              letter-spacing: 0.02em;}
 .contacts a {color: #434455;
     text-decoration: none;
              font-weight: 400;
             font-size: 16px;
-            line-height: 24px;
-            letter-spacing: 2%;}
-            #logo-header{
-                    font-size: 40px;
-                    font-weight: 600;
-                    letter-spacing: 0%;
-                    line-height: 100%;
+            line-height: 1.5;
+            letter-spacing: 0.02em;}
+            .logo-header{
+                text-transform: uppercase;
+                    font-size: 18px;
+                    font-weight: 700;
+                    letter-spacing: 0.03em;
+                    line-height: 1.5;
                     color: #2E2F42;
                     text-decoration: none;
                 }
-            #logo-web{color: #4D5AE5;}
+            .logo-web{color: #4D5AE5;}
+.page-nav a:hover,
+.page-nav a:focus {
+    color: #404bbf;
+}
+
+.contacts a:hover,
+.contacts a:focus {
+    color: #404bbf;
+}

@@ -9,10 +9,11 @@ body { background-color: #fff;
 h1 {font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;}
 
 h2 {font-weight: 700;
+    line-height: 1.11;
     font-size: 36px;
     letter-spacing: 0.02em;}
 
@@ -27,12 +28,12 @@ p {font-weight: 400;
    letter-spacing: 0.02em;}
 
 .small {font-size: 12px;
-        line-height: 16px;
+        line-height: 1.5;
         letter-spacing: 0.04em;
         text-decoration: underline;}
 
 a {font-size: 12px;
-   line-height: 16px;
+   line-height: 1.5;
    letter-spacing: 0.04em;
    text-decoration: underline;}
 

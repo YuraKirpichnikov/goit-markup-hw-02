@@ -1,17 +1,15 @@
-#hero {background-color: #2E2F42;}
-#hero h1{color: #FFFFFF;
+.hero {background-color: #2E2F42;}
+.hero-title{color: #FFFFFF;
     text-align: center;
     font-size: 56px;
 font-weight: 700;
-font-style: bold;
 letter-spacing: 0.02em;
-line-height: 1.5;}
+line-height: 1.07;}
 .hero-btn{
     cursor: pointer;
     font-weight: 500;
-    line-height: 1.07;
+    line-height: 1.5;
     letter-spacing: 0.04em;
-    font-style: medium;
     background-color: #4D5AE5;
     color: #FFFFFF;
 
@@ -20,4 +18,3 @@ line-height: 1.5;}
 .hero-btn:focus {
     background-color: #404BBF;
 }
-/* id="hero" class="hero-btn" id="features" class="title-block" class="features-h3-txt" class="features-p-txt"/*

@@ -6,7 +6,9 @@
               font-size: 16px;
               line-height: 1.5;
               letter-spacing: 0.02em;}
-.contacts a {color: #434455;
+.contacts a {font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: #434455;
     text-decoration: none;
              font-weight: 400;
             font-size: 16px;
@@ -21,7 +23,7 @@
                     color: #2E2F42;
                     text-decoration: none;
                 }
-            .logo-web{color: #4D5AE5;}
+            #logo-web{color: #4D5AE5;}
 .page-nav a:hover,
 .page-nav a:focus {
     color: #404bbf;

@@ -1,8 +1,8 @@
-#footer {background-color: #2E2F42; color: #F4F4FD;}
+.footer {background-color: #2E2F42; color: #F4F4FD;}
 .logo {font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0em;
+    letter-spacing: 0.03em;
     line-height: 1.33;
     color: #F4F4FD;
     text-decoration: none;}
